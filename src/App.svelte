@@ -46,7 +46,6 @@
 <Firstevent/>
 
 {/if}
-<p>did we fix this</p>
 
 <style>
 
