@@ -50,10 +50,6 @@
 
 {/if}
 
-<p> bla bla bla fix git please</p>
-<p> bla bla bla fix git please</p>
-<p> bla bla bla fix git please</p>
-<p> bla bla bla fix git please</p>
 <style>
 
 	ul#menu li {
